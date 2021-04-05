@@ -1,0 +1,4 @@
+Sitemap: daea.edalus.net/sitemap.xml
+
+User-agent: *
+Disallow:
